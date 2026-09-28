@@ -41,7 +41,7 @@ Step 3: Clone the Repository
 
 Run:
 
-git clone https://github.com/deojashan-coder/student-expense-tracker.git
+https://github.com/deoaljashan-coder/student-expense-tracker.git
 
 4. How to Run
 
