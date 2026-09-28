@@ -41,7 +41,9 @@ Step 3: Clone the Repository
 
 Run:
 
-https://github.com/deoaljashan-coder/student-expense-tracker.git
+git clone https://github.com/deoaljashan-coder/student-expense-tracker.git
+cd student-expense-tracker
+python expense_tracker.py
 
 4. How to Run
 
